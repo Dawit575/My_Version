@@ -10,3 +10,7 @@ const greet = ()=>{
     console.log("Hello This is Dawit-Version Branch text");
     
 }
+const product = (a,b)=>{
+    return a*b;
+}
+product(4,6)
