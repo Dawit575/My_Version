@@ -6,3 +6,7 @@ const addNumbers = (a,b)=>{
 addNumbers(34,67);
 
 console.log("Hello ,Students");
+const greet = ()=>{
+    console.log("Hello This is Dawit-Version Branch text");
+    
+}
