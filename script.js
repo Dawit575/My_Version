@@ -14,3 +14,4 @@ const product = (a,b)=>{
     return a*b;
 }
 product(4,6)
+console.log("Lets tets");
